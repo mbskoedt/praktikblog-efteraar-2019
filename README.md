@@ -1,2 +1,2 @@
-# praktikblog-efteraar-2019
-Praktikblog for Matias Skødt Efteråret 2019
+# praktikblog-forår-2020
+Praktikblog for Matias Skødt forår 2020
